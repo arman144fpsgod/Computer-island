@@ -1,0 +1,9 @@
+Write a Program that print minimum and maximum of 4 intigers
+Example one:
+Input:
+4
+5
+6
+7
+Output:
+min = 4 , max = 7
